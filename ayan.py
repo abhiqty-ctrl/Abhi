@@ -83,7 +83,7 @@ RAID_TEXTS = [
 "oye mukke maru tere ma k mu prr",
 "Tri ma 👵 ki chut me dandi 🎣 dalke road pe laga dunga ! Street light 💡 lagegi ksm se",
 "trima ki choti pkd ke diwar pe marunga dhamm dhamm ki awaj aygi",
-"Teri maa ki chut me "🤙🏻" ese fingering krdunga",
+"Teri maa ki chut me 🖕 ese fingering krdunga",
 "Muh pe asa lund mrunga chud chudke pagal hojyga",
 "𝘛𝘌𝘙𝘐 𝘔𝘈 𝘉𝘓𝘈𝘊𝘒 𝘉𝘜𝘙 𝘘𝘜𝘌𝘌𝘕",
 "JⱧɄⱠ₳ JⱧɄⱠ ฿₳₳₱ ₭Ø ₥₳₮ ฿ⱧɄⱠ😈🤙🏻🔥",
