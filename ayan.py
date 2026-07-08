@@ -72,10 +72,7 @@ RAID_TEXTS = [
 "teri ma ki chati pr lund marunga",
 "ꪶ  ⱠƲƝ ƬЄ Ɣƛʝ ꪻ♡︎",
 "a guy gave me wise advice "ignore kro jaise mai krta hu coz vo randike bachhe hai" so imma apply that on you.",
-"🇳𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴:
-"(Teri maa ki moan)" 
-01:23 ━━━━●───── 03:43
-      ㅤ ㅤ◁ㅤ ❚❚ ㅤ▷",
+"🪄 अंतर मंत्र शैतानी खोपड़ा तेरी मां का भोसड़ा 🪄",
 "𝐓ᴜ]ʜ𝐄 𝐂ᴏᴏ𝐋 𝐁ᴏʟ𝐔 𝐘ᴀ 𝐑ɴΔ𝐈 𝐊ᴀ 🇧聲🇨🇨ʜA 🔥😸🔥😸🔥😸🔥😸🔥",
 "teri ma ko चोद kr chath se fek diya 
 
